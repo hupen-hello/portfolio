@@ -1244,3 +1244,80 @@ select:focus-visible {
   font-size: 16px;
   opacity: .5;
 }
+
+
+/* camp  */
+
+.campaign-card {
+    background: var(--card-bg);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 16px;
+    padding: 30px;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    backdrop-filter: blur(10px);
+    margin-bottom: 30px;
+  }
+
+  .campaign-content {
+    flex: 1;
+  }
+
+  .campaign-image {
+    flex: 1;
+    max-width: 400px;
+  }
+
+  .campaign-image img {
+    width: 100%;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+    border: 1px solid rgba(192, 38, 211, 0.3);
+  }
+
+  .tag {
+    color: var(--primary-purple);
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+    display: block;
+  }
+
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #fff;
+  }
+
+  .info-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 15px;
+  }
+
+  .info-item b {
+    color: var(--primary-purple);
+    display: block;
+    margin-bottom: 4px;
+    font-size: 14px;
+  }
+
+  .info-item p {
+    margin: 0;
+    color: var(--text-gray);
+    line-height: 1.5;
+  }
+
+  /* Responsive for Mobile */
+  @media (max-width: 768px) {
+    .campaign-card {
+      flex-direction: column;
+      text-align: center;
+    }
+    .campaign-image {
+      order: -1; /* Image comes first on mobile */
+    }
+  }
