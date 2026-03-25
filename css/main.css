@@ -1248,31 +1248,9 @@ select:focus-visible {
 
 /* camp  */
 
-.main-wrapper {
-    max-width: 1000px;
-    margin: 0 auto;
-  }
 
-  /* Text tag at the very top (similar to "CAMPAIGNS" in original image) */
-  .section-tag {
-    display: inline-block;
-    padding: 6px 16px;
-    background-color: rgba(255, 255, 255, 0.08);
-    border-radius: 20px;
-    font-size: 12px;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    color: var(--text-secondary);
-    margin-bottom: 30px;
-  }
 
-  /* Main Title, matching original image style */
-  .main-title {
-    font-size: 48px;
-    font-weight: 700;
-    color: var(--primary-purple);
-    margin-bottom: 50px;
-  }
+ 
 
   /* Campaign Card Container - Full width, no left/right split */
   .campaign-container {
