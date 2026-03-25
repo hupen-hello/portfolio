@@ -1276,21 +1276,8 @@ select:focus-visible {
     border: 1px solid rgba(192, 38, 211, 0.3);
   }
 
-  .tag {
-    color: var(--primary-purple);
-    font-size: 14px;
-    font-weight: bold;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    margin-bottom: 10px;
-    display: block;
-  }
 
-  h2 {
-    font-size: 24px;
-    margin-bottom: 20px;
-    color: #fff;
-  }
+  
 
   .info-grid {
     display: grid;
