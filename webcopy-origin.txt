@@ -1,0 +1,648 @@
+Uri: https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOak4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOCk4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOKk4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnOqk4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPKk4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTc2dphjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTc2dphjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTc2dthjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTc2dthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTc69thjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTc69thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcB9xhjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcB9xhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTccNxhjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTccNxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTch9thjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTch9thjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcPtxhjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcPtxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcWdthjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcWdthjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcWdxhjQ.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnPqk4j1ebLhAm8SrXTcWdxhjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp506jIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ijIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ojIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50qjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50ujIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50yjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://visiblo-template.tavonline.co/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://visiblo-template.tavonline.co/css/colors/purple.css
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\css\colors\purple.css
+Content Type: text/css
+
+Uri: https://visiblo-template.tavonline.co/css/magnific.css
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\css\magnific.css
+Content Type: text/css
+
+Uri: https://visiblo-template.tavonline.co/css/main.css
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\css\main.css
+Content Type: text/css
+
+Uri: https://visiblo-template.tavonline.co/css/swiper.css
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\css\swiper.css
+Content Type: text/css
+
+Uri: https://visiblo-template.tavonline.co/icon-fonts/remixicon/remixicon.css
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\icon-fonts\remixicon\remixicon.css
+Content Type: text/css
+
+Uri: https://visiblo-template.tavonline.co/icon-fonts/remixicon/remixicon.eot?t=1766743011500
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\icon-fonts\remixicon\remixicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://visiblo-template.tavonline.co/icon-fonts/remixicon/remixicon.svg?t=1766743011500
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\icon-fonts\remixicon\remixicon.svg
+Content Type: image/svg+xml
+
+Uri: https://visiblo-template.tavonline.co/icon-fonts/remixicon/remixicon.ttf?t=1766743011500
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\icon-fonts\remixicon\remixicon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://visiblo-template.tavonline.co/icon-fonts/remixicon/remixicon.woff2?t=1766743011500
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\icon-fonts\remixicon\remixicon.woff2
+Content Type: font/woff2
+
+Uri: https://visiblo-template.tavonline.co/icon-fonts/remixicon/remixicon.woff?t=1766743011500
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\icon-fonts\remixicon\remixicon.woff
+Content Type: application/font-woff
+
+Uri: https://visiblo-template.tavonline.co/img/figma.png
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\img\figma.png
+Content Type: image/png
+
+Uri: https://visiblo-template.tavonline.co/img/framer.png
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\img\framer.png
+Content Type: image/png
+
+Uri: https://visiblo-template.tavonline.co/img/graphql.png
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\img\graphql.png
+Content Type: image/png
+
+Uri: https://visiblo-template.tavonline.co/img/laravel.png
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\img\laravel.png
+Content Type: image/png
+
+Uri: https://visiblo-template.tavonline.co/img/logo-1.png
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\img\logo-1.png
+Content Type: image/png
+
+Uri: https://visiblo-template.tavonline.co/img/logo-3.png
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\img\logo-3.png
+Content Type: image/png
+
+Uri: https://visiblo-template.tavonline.co/img/logo-4.png
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\img\logo-4.png
+Content Type: image/png
+
+Uri: https://visiblo-template.tavonline.co/img/logo-5.png
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\img\logo-5.png
+Content Type: image/png
+
+Uri: https://visiblo-template.tavonline.co/img/profile.jpg
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\img\profile.jpg
+Content Type: image/jpeg
+
+Uri: https://visiblo-template.tavonline.co/img/project-01.jpg
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\img\project-01.jpg
+Content Type: image/jpeg
+
+Uri: https://visiblo-template.tavonline.co/img/project-02.jpg
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\img\project-02.jpg
+Content Type: image/jpeg
+
+Uri: https://visiblo-template.tavonline.co/img/project-03.jpg
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\img\project-03.jpg
+Content Type: image/jpeg
+
+Uri: https://visiblo-template.tavonline.co/img/project-04.jpg
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\img\project-04.jpg
+Content Type: image/jpeg
+
+Uri: https://visiblo-template.tavonline.co/img/sass.png
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\img\sass.png
+Content Type: image/png
+
+Uri: https://visiblo-template.tavonline.co/img/wordpress.png
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\img\wordpress.png
+Content Type: image/png
+
+Uri: https://visiblo-template.tavonline.co/index.html
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\index.html.htm
+Content Type: text/html
+
+Uri: https://visiblo-template.tavonline.co/js/gsap.min.js
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\js\gsap.min.js
+Content Type: application/x-javascript
+
+Uri: https://visiblo-template.tavonline.co/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\js\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://visiblo-template.tavonline.co/js/magnific.js
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\js\magnific.js
+Content Type: application/x-javascript
+
+Uri: https://visiblo-template.tavonline.co/js/main.js
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\js\main.js
+Content Type: application/x-javascript
+
+Uri: https://visiblo-template.tavonline.co/js/scroll-trigger.min.js
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\js\scroll-trigger.min.js
+Content Type: application/x-javascript
+
+Uri: https://visiblo-template.tavonline.co/js/split-text.min.js
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\js\split-text.min.js
+Content Type: application/x-javascript
+
+Uri: https://visiblo-template.tavonline.co/js/swiper.js
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\js\swiper.js
+Content Type: application/x-javascript
+
+Uri: https://visiblo-template.tavonline.co/video/ball.mp4
+File Name: C:\Downloaded Web Sites\visiblo-template.tavonline.co\video\ball.mp4
+Content Type: video/mp4
+
