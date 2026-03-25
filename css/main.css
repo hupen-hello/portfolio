@@ -1249,25 +1249,6 @@ select:focus-visible {
 /* camp  */
 
 
-
- 
-
-  /* Campaign Card Container - Full width, no left/right split */
-  .campaign-container {
-    background: var(--card-bg);
-    border: 1px solid var(--border-color);
-    border-radius: 16px;
-    overflow: hidden; /* To round the image corners too */
-    backdrop-filter: blur(10px);
-    margin-bottom: 40px;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
-
-  .campaign-container:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 30px rgba(0,0,0,0.3);
-  }
-
   /* Image Section - Top, full width */
   .campaign-hero-image {
     width: 100%;
@@ -1305,6 +1286,16 @@ select:focus-visible {
     display: grid;
     grid-template-columns: repeat(1, 1fr); /* 3 equal columns */
     gap: 10px;
+  }
+
+  .campaign-number {
+    color: var(--primary-purple);
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    margin-bottom: 10px;
+    display: block;
   }
 
  
